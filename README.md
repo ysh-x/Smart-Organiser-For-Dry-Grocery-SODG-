@@ -30,13 +30,15 @@ The web console helps in fetching the required information about the grocery to 
 
 ## Proposed Modules
 
-1. Web Console
-   ![WC](./Media-Assets/Web-Console.png "WC")
+### Web Console
+
+![WC](./Media-Assets/Web-Console.png "WC")
 
 - Web console to input details of the grocery.
 
-2. IoT Device
-   ![IoT](./Media-Assets/IoT%20Product.png "IoT")
+### IoT Device
+
+![IoT](./Media-Assets/IoT%20Product.png "IoT")
 
 - IoT Device to embed information to the lid of the container & fetching information
   about the grocery in the container.
